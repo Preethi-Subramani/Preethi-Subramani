@@ -14,6 +14,6 @@
 
  ### I know 
  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> 
- <img width="48" height="48" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+ <img width="48" height="48" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
   
 

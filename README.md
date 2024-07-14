@@ -1,3 +1,5 @@
+### Hello there It's Preethi
+
 - 👋 Hi, I’m Preethi
 - 🔭 Check my [portfolio](https://preethi.web.app/)
 - 🌱 I'm currently pursuing AI&DS
